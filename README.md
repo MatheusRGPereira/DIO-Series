@@ -16,9 +16,8 @@ e deletar as series desejadas</p>
   ## 📁 Acesso ao Portifolio
 Você pode acessar os arquivos do projeto clicando [aqui](https://github.com/MatheusRGPereira/DIO-Series).
   
- ## 📷 Imagens do Programa
+ ## 📷 Imagem do Programa
   ![Foto console](https://user-images.githubusercontent.com/100168699/176941218-8d06e5f0-a6f8-4602-93c9-affbe6aa29a0.png)
-  ![foto DIo2](https://user-images.githubusercontent.com/100168699/172222517-09978bf3-ecda-4535-a159-9c0d2f5891be.png)
   
   ## 🧑‍🎨 Desenvolvido por:
   ✔️ Matheus Rodrigues!
